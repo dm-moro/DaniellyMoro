@@ -1,16 +1,14 @@
-# DaniellyMoro · Link na Bio
-
 Landing page pessoal com indicações, serviços de TI, portfólio e timer Pomodoro.
 
-🔗 [daniellymoro.vercel.app](https://daniellymoro.vercel.app)
+🔗 [danielly-moro.vercel.app](https://danielly-moro.vercel.app)
 
 
 ## Seções
-- 💻 Serviços de TI (hardware & manutenção)
-- ⌥ Portfólio de projetos (GitHub)
-- 📚 Livros recomendados (afiliado Amazon)
-- 🛠️ Ferramentas & estudos (afiliado Preply)
-- ⏱️ Timer Pomodoro funcional
+- 💻 Serviços de TI
+- 📚 Livros recomendados
+- 🛠️ Corpo e Mente
+- ⌥ Portfólio de projetos
+- ⏱️ Timer Pomodoro
 - ✉️ Contato
 
 > Made with ☕ by Danielly Moro
