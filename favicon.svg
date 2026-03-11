@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .computer-screen { fill: #6366f1; }
+      .computer-stand { fill: #6366f1; }
+      .computer-inner { fill: #e0e7ff; }
+    </style>
+  </defs>
+  <!-- Monitor -->
+  <rect x="15" y="15" width="70" height="50" rx="3" class="computer-screen"/>
+  <!-- Inner screen -->
+  <rect x="20" y="20" width="60" height="40" rx="2" class="computer-inner"/>
+  <!-- Stand -->
+  <rect x="40" y="65" width="20" height="15" class="computer-stand"/>
+  <!-- Base -->
+  <ellipse cx="50" cy="82" rx="25" ry="8" class="computer-stand"/>
+</svg>
